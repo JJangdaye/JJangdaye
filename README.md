@@ -7,7 +7,6 @@
         I am a senior student majoring in Computer Science & Engineering with a strong passion for AI and Software Development. I really enjoy studying and learning new technologies in depth.
     </div>
 </div>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
