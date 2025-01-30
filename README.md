@@ -8,11 +8,39 @@
         ⚡I'm a senior student majoring in Computer Science & Engineering<br>
         with a strong passion for AI and Software Development.<br>
         ⚡I really enjoy studying and learning new technologies in depth.<br>
-    <br/>
-          <a href="https://solved.ac/JJangdaye">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JJangdaye" alt="Solved.ac JJangdaye"/>
-          </a>
+    <br>
     </div>
+</div>
+
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education 🎓</h2> <br>   
+  <table style="margin: 0 auto; border-collapse: collapse;">
+    <thead>
+      <tr>
+        <th><strong>Institution</strong></th>
+        <th><strong>Degree</strong></th>
+        <th><strong>Dates</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>🇰🇷 <strong>Ewha Womans University</strong><br>Seoul, Korea</td>
+        <td><strong>Bachelor of Science</strong><br>Major in Computer Science & Engineering</td>
+        <td>MAR 2021 - PRESENT</td>
+      </tr>
+      <tr>
+        <td>🇩🇪 <strong>Brandenburg Technical University</strong><br>Cottbus, Germany</td>
+        <td><strong>Freemover</strong><br>Major in Computer Science & Engineering</td>
+        <td>FEB 2024 – AUG 2024</td>
+      </tr>
+      <tr>
+        <td>🇳🇱 <strong>NHL Stenden University <br>of Applied Sciences</strong><br>Leeuwarden, Netherlands</td>
+        <td><strong>Exchange Student</strong><br>Minor in Computer Vision and Data Science</td>
+        <td>AUG 2023 – JAN 2024</td>
+      </tr>
+    </tbody>
+  </table>
+    <br>
 </div>
 
 <div align= "center">
@@ -36,14 +64,20 @@
           <img src="https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
           <img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" />
           <br/>
+                <br/>
+          <a href="https://solved.ac/JJangdaye">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JJangdaye" alt="Solved.ac JJangdaye"/>
+          </a>
+          <br>
+          <br>
           </div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 How to reach me 📫</h2> <br> 
-    <div align= "center"> <a href=mailto:jjangdaye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjangdaye@gmail.com"> </a>
+    <div align= "center"> <a href=mailto:jjangdaye@gmail.com> <img src="https://img.shields.io/badge/Gmail-%23FFEC58?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjangdaye@gmail.com"> </a>
          <a href=https://blog.naver.com/moda1019> <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/moda1019"> </a>
          <a href=https://linkedin.com/in/daye-jang-847bab293> <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://linkedin.com/in/daye-jang-847bab293"> </a>
-         <a href=https://youtube.com/@jjangdaye><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@jjangdaye">
+         <br/><a href=https://youtube.com/@jjangdaye><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@jjangdaye">
          <a href=https://alwaysmoveforward.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://alwaysmoveforward.tistory.com/"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
