@@ -17,6 +17,7 @@
   <table style="margin: 0 auto; border-collapse: collapse;">
     <thead>
       <tr>
+        <tr style="background-color: #f0f4f8;">
         <th><strong>Institution</strong></th>
         <th><strong>Degree</strong></th>
         <th><strong>Dates</strong></th>
