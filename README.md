@@ -17,7 +17,7 @@
           <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
           <img src="https://img.shields.io/badge/gitlab-%23FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=black" />
           <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
-          <br/><img src="https://img.shields.io/badge/pycharm-%23000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
+          <br/><img src="https://img.shields.io/badge/pycharm-%23E50695.svg?&style=for-the-badge&logo=pycharm&logoColor=white" />
           <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
           <img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
           <img src="https://img.shields.io/badge/jupyter-%23F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -35,8 +35,10 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:jjangdaye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjangdaye@gmail.com"> </a>
+         <a href=https://blog.naver.com/moda1019> <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/moda1019"> </a>
+         <a href=https://linkedin.com/in/daye-jang-847bab293> <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://linkedin.com/in/daye-jang-847bab293"> </a>
+         <a href=https://youtube.com/@jjangdaye><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@jjangdaye">
          <a href=https://alwaysmoveforward.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://alwaysmoveforward.tistory.com/"> </a>
-         <a href=https://blog.naver.com/moda1019> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/moda1019"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
