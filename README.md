@@ -1,6 +1,7 @@
-<div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8585&height=125&text=Hi,%20there!%20Welcome%20to%20Daye's%20Github👋&animation=fadeIn&fontColor=000000&fontSize=40" />
-</div>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d2ff70,100:b8e0ff&height=180&text=Hi,%20there!%20Welcome%20to%20Daye's%20Github👋&animation=&fontColor=000000&fontSize=40" />
+</div>    
+
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🌱 Journey to Professional AI & SW Engineer 🌱</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
