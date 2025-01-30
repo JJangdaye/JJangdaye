@@ -2,16 +2,20 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ff8585&height=125&text=Hi,%20there!%20Welcome%20to%20Daye's%20Github👋&animation=fadeIn&fontColor=000000&fontSize=40" />
 </div>
 <div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🌱 Journey to Professional AI & SW Engineer</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🌱 Journey to Professional AI & SW Engineer 🌱</h2>
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
         ⚡I'm a senior student majoring in Computer Science & Engineering<br>
         with a strong passion for AI and Software Development.<br>
         ⚡I really enjoy studying and learning new technologies in depth.<br>
+    <br/>
+          <a href="https://solved.ac/JJangdaye">
+            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JJangdaye" alt="Solved.ac JJangdaye"/>
+          </a>
     </div>
 </div>
 
 <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks & Tools 🛠️</h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" />
           <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
@@ -31,14 +35,10 @@
           <img src="https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
           <img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" />
           <br/>
-          <br/>
-          <a href="https://solved.ac/JJangdaye">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JJangdaye" alt="Solved.ac JJangdaye"/>
-          </a>
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📫 How to reach me 📫</h2> <br> 
     <div align= "center"> <a href=mailto:jjangdaye@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jjangdaye@gmail.com"> </a>
          <a href=https://blog.naver.com/moda1019> <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/moda1019"> </a>
          <a href=https://linkedin.com/in/daye-jang-847bab293> <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&link=https://linkedin.com/in/daye-jang-847bab293"> </a>
