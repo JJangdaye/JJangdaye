@@ -65,10 +65,6 @@
           <img src="https://img.shields.io/badge/microsoft%20outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" />
           <img src="https://img.shields.io/badge/microsoft%20teams-%236264A7.svg?&style=for-the-badge&logo=microsoft%20teams&logoColor=white" />
           <br/>
-                <br/>
-          <a href="https://solved.ac/JJangdaye">
-            <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=JJangdaye" alt="Solved.ac JJangdaye"/>
-          </a>
           <br>
           <br>
           </div>
